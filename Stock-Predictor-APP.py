@@ -1,8 +1,7 @@
 import numpy as np
 import datetime
 import pandas as pd
-import matplotlib 
-from matplotlib import pyplot as plt
+import matplotlib.pyplot as plt
 import yfinance as yf
 from sklearn.preprocessing import MinMaxScaler
 from keras.models import load_model
